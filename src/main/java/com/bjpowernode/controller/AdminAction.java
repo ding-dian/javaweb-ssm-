@@ -28,7 +28,7 @@ public class AdminAction {
             //登录失败
             request.setAttribute("errmsg","用户名或密码不正确!");
             return "login";
-            /*hahhq*/
+            /*hahhqjjj*/
         }
 
     }
